@@ -1,12 +1,9 @@
-<link rel="stylesheet" href="markdown-style.css" ></link>
+## About icon color
 
-# Column
+Icon color of portfolio page is tiger(#FD6A02).  
+This is the thing that my oriental zodiac sign is the tiger.*
 
-###About icon color
+## What is the origin of my name ?
 
-> Icon color of portfolio page is tiger(#FD6A02).
-> This is the thing that my oriental zodiac sign is the tiger.*
+...  
 
-###What is the origin of my name ?
-
-> ...
