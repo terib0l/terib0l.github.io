@@ -1,0 +1,14 @@
+body {
+	background: #222222;
+	color: white;
+	font-family: fantasy;
+	font-size: 25px;
+	width: 80%;
+	height: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+p {
+	margin-left: 20px;
+}
