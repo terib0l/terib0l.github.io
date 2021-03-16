@@ -3,9 +3,9 @@ body {
 }
 
 .main {
-	width: 100vw;
-	height: 80vh;
-	margin: 15vw;
+	width: 80%;
+	height: 80%;
+	margin: auto;
 	font-family: fantasy;
 	/* font-family: 'Helvetica Neue', sans-serif; */
 }
@@ -13,7 +13,6 @@ body {
 h1 {
 	display: block;
 	font-size: 4em;
-	/* font-weight: bold; */
 }
 
 h2 {
@@ -27,7 +26,7 @@ h2 {
 	align-items: center;
 	height: 50vh;
 	width: 85vh;
-	font-size: 2.5em;
+	font-size: 5em;
 }
 
 a:link {
