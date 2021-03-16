@@ -30,10 +30,10 @@ h2 {
 .icons {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 50px;
-	margin-left: 20px;
-	margin-right: 20px;
-	font-size: 4em;
+	margin-top: 20vh;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 7em;
 }
 
 a:link {
