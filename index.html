@@ -22,5 +22,16 @@
 				<a href="https://terib0l.github.io/post-script.md"><i class="fas fa-dragon"></i></a>
 			</div>
 		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script>
+			$(function(){
+				setTimeout('fluffy()');
+			});
+
+			function fluffy(){
+				$('.icons').animate({marginTop: '-=10px'}, 800).animate({marginTop: '+=10px'}, 800);
+				setTimeout('fluffy()', 1600);
+			}
+		</script>
 	</body>
 </html>

@@ -6,3 +6,4 @@
 - Blog
 - Twitter
 - Product
+- Column
