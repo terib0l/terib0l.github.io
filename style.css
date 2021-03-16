@@ -1,31 +1,36 @@
+* {
+	box-sizing: border-box;
+}
 body {
 	background-color: #222222;
+	font-family: fantasy;
 }
 
 .main {
-	width: 80%;
-	height: 80%;
+	width: 100vw;
+	height: 100vh;
 	margin: auto;
-	font-family: fantasy;
 	/* font-family: 'Helvetica Neue', sans-serif; */
 }
 
 h1 {
-	display: block;
 	font-size: 4em;
+	margin: 0;
+	padding: 0;
 }
 
 h2 {
-	display: block;
-	font-size: 2em; 
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
 }
 
 .icons {
 	display: flex;
-	justify-content: center;
+	justify-content: space-between;
 	align-items: center;
-	height: 50vh;
-	width: 85vh;
+	height: 80vh;
+	width: 80vw;
 	font-size: 5em;
 }
 
