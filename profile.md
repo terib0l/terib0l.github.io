@@ -1,17 +1,13 @@
 # PROFILE
 
 ## Affiliation
-
-	* TDU
+* TDU
 
 ## Experience
-
-	* Security Camp National Workshop, October ~ December 2020
+* Security Camp National Workshop, October ~ December 2020
 
 ## Programing Language
-
-	* None
+* None
 
 ## Interest
-
-	* None
+* None
