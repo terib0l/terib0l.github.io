@@ -6,4 +6,5 @@
 - Blog
 - Twitter
 - Product
+- SpeakerDeck
 - Column
