@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/home/terib0l/Git/terib0l.github.io/portfolio/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_87fc3d3c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/terib0l/Git/terib0l.github.io/portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_14e6d716"
+  }
+]
