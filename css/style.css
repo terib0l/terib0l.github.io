@@ -16,19 +16,18 @@ body {
 }
 
 h1 {
-	font-size: 5em;
-	margin: 0;
-	padding: 0;
+	color: white;
+  text-align: center;
+  font-style: italic;
 	justify-content: space-between;
 	margin-top: 20vh;
-	margin-left: 40px;
-	margin-right: 40px;
+	font-size: 5em;
 }
 
 .icons {
 	display: flex;
 	justify-content: space-between;
-	margin-top: 20vh;
+	margin-top: 15vh;
 	margin-left: 40px;
 	margin-right: 40px;
 	font-size: 7em;
