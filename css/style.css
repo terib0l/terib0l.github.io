@@ -1,42 +1,42 @@
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-	background-color: #222222;
-	font-family: "fantasy";
+  background-color: #222222;
+  font-family: "fantasy";
 }
 
 .main {
-	width: 80%;
-	height: 80%;
-	margin-right: auto;
-	margin-left: auto;
-	/* font-family: 'Helvetica Neue', sans-serif; */
+  width: 80%;
+  height: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  /* font-family: 'Helvetica Neue', sans-serif; */
 }
 
 h1 {
-	color: white;
+  color: white;
   text-align: center;
   font-style: italic;
-	justify-content: space-between;
-	margin-top: 20vh;
-	font-size: 5em;
+  justify-content: space-between;
+  margin-top: 20vh;
+  font-size: 5em;
 }
 
 .icons {
-	display: flex;
-	justify-content: space-between;
-	margin-top: 15vh;
-	margin-left: 40px;
-	margin-right: 40px;
-	font-size: 7em;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15vh;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 7em;
 }
 
 a:link {
-	color: #fd6a02;
+  color: #fd6a02;
 }
 
 a:visited {
-	color: #fd6a02;
+  color: #fd6a02;
 }
