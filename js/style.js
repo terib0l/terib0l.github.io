@@ -20,6 +20,7 @@ typewriter({
   speed: 60
 });
 
+/*
 // Change color of icons on mouseover
 const icon = document.getElementById("icon");
 
@@ -28,6 +29,19 @@ icon.addEventListener("mouseover", function(event){
 });
 icon.addEventListener("mouseout", function(event){
   event.target.style.color = "#fd6a02";
+});
+*/
+
+// Ripple animation
+//const icon = document.getElementsByClassName("point");
+const target = $('.point');
+
+target.on('mouseover', arg=> {
+  $(arg.currentTarget).addClass("-active");
+});
+
+target.on('mouseout', ()=> {
+  target.removeClass("-active");
 });
 
 // Shake icons
