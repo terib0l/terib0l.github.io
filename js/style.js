@@ -1,13 +1,8 @@
 // Text Animation like typing in title
-const title = document.getElementById("title");
-const titleText = title.textContent;
-
 function typewriter(arg) {
   let element = document.querySelector(arg.element);
   let text = arg.text.split("");
   let speed = arg.speed;
-
-  console.log(element, text, speed);
 
   window.setTimeout(function () {
     element.textContent = "";
