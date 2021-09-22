@@ -1,0 +1,9 @@
+on: pull_request
+
+jobs:
+  github-context:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Dump Github Context
+      env:  GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: echo "${GITHUB_CONTEXT}"
